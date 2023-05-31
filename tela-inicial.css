@@ -97,7 +97,7 @@ h2{
 
 @media (max-width:600px){
     main h1{
-        font-size: 1.08em;
+        font-size: 1.2em;
     }
     .nav-list{
         display: block;
